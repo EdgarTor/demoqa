@@ -1,0 +1,33 @@
+{
+  "page_title": "DEMOQA",
+  "logo": {
+    "link_href": "https://demoqa.com/",
+    "image_src": "https://demoqa.com/images/Toolsqa.jpg"
+  },
+
+  "accordion_menu_items": [
+    {
+      "menu_title": "Elements"
+    },
+    {
+      "menu_title": "Forms"
+    },
+    {
+      "menu_title": "Alerts, Frame & Windows"
+    },
+    {
+      "menu_title": "Widgets"
+    },
+    {
+      "menu_title": "Interactions"
+    },
+    {
+      "menu_title": "Book Store Application"
+    }
+  ],
+
+  "elements_section": {
+    "title": "Elements",
+    "default_state_msg": "Please select an item from left to start practice."
+  }
+}

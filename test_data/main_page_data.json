@@ -1,0 +1,35 @@
+{
+  "page_title": "DEMOQA",
+  "logo": {
+    "link_href": "https://demoqa.com/",
+    "image_src": "/images/Toolsqa.jpg"
+  },
+
+  "home_banner": {
+    "link_href": "https://www.toolsqa.com/selenium-training/",
+    "link_target": "_blank",
+    "img_src": "https://demoqa.com/images/WB.svg",
+    "img_alt": "Selenium Online Training"
+  },
+
+  "cards": [
+    {
+        "text": "Elements"
+    },
+    {
+        "text": "Forms"
+    },
+    {
+        "text": "Alerts, Frame & Windows"
+    },
+    {
+        "text": "Widgets"
+    },
+    {
+        "text": "Interactions"
+    },
+    {
+        "text": "Book Store Application"
+    }
+  ]
+}
